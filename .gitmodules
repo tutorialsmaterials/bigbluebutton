@@ -1,0 +1,24 @@
+[submodule "repos/bbb-etherpad-skin"]
+	path = repos/bbb-etherpad-skin
+	url = https://github.com/alangecker/bbb-etherpad-skin
+[submodule "repos/bbb-etherpad-plugin"]
+	path = repos/bbb-etherpad-plugin
+	url = https://github.com/alangecker/bbb-etherpad-plugin
+[submodule "repos/bbb-webhooks"]
+	path = repos/bbb-webhooks
+	url = https://github.com/bigbluebutton/bbb-webhooks
+[submodule "repos/bbb-playback"]
+	path = repos/bbb-playback
+	url = https://github.com/bigbluebutton/bbb-playback
+[submodule "repos/freeswitch"]
+	path = repos/freeswitch
+	url = https://github.com/signalwire/freeswitch.git
+[submodule "repos/bigbluebutton"]
+	path = repos/bigbluebutton
+	url = https://github.com/bigbluebutton/bigbluebutton.git
+[submodule "repos/bbb-webrtc-sfu"]
+	path = repos/bbb-webrtc-sfu
+	url = https://github.com/bigbluebutton/bbb-webrtc-sfu.git
+[submodule "repos/bbb-pads"]
+	path = repos/bbb-pads
+	url = https://github.com/bigbluebutton/bbb-pads.git

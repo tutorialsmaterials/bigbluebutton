@@ -1,0 +1,18 @@
+docker-compose.yml 
+docker-compose.override.yml
+
+# IDEA generated
+.idea
+
+# OS generated
+.DS_Store
+.AppleDouble
+
+# Tmp files
+*.swp
+*.log
+
+# App generated
+.env
+postgres-data
+greenlight-data
